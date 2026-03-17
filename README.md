@@ -2,7 +2,7 @@
 
 # Description
 
-This project is based on SQLAlchemy ORM designed to organize and maintain developers workplace info about the employees, including their personal info, role and experience. The goal of this project is to show practical usage of object oriented programming fundamentals in real world academic context. 
+This project is based on SQLAlchemy ORM designed to organize and maintain developers workplace info about the company, employees, including their personal info, role and experience. The goal of this project is to show practical usage of object oriented programming fundamentals in real world academic context. 
 
 This project uses SQLAlchemy ORM to interact with a relational database while applying Object-Oriented-Programming principles for structured, clear and maintainable code.
 
