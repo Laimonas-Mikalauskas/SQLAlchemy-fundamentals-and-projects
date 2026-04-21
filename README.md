@@ -24,7 +24,7 @@ This personal project done besides the academic assignments implements a structu
 - Implementation of console-based output that displays processed SQL query and program results by using Python classes and OOP design principles 
 - Secure login credentials management by implementing structured user authentication model
 - Object Relational Mapping (ORM) usage with SQLAlchemy while executing full CRUD operations
-- SQL Injection prevention by using ORM to protect data management system from vulnerabilities 
+- SQL Injection prevention by using ORM to protect sensitive user's data
 
 ### File location
 - This file can be found in 'SQLAlchemy' folder
