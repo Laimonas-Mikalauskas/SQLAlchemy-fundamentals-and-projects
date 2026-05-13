@@ -18,6 +18,7 @@ This personal project done besides the academic assignments implements a structu
 # Technologies
 - Python
 - SQLAlchemy
+- Werkzeug 
 
 ## Concepts & learning goals
 - Object-Oriented Programming (OOP) usage in database design and modelling by applying core Python fundamentals
