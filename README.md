@@ -8,8 +8,7 @@ This project uses SQLAlchemy ORM to interact with a relational database while ap
 
 # Problem
 
-Back-end development teams requires an efficient workplace data management solutions that helps to handle and secure structured company's data such as company establishment, developers records, task assignments and clear role information. Poor database management and security issues always triggers data leaks, 
-inefficient queries and security vulnerabilities such as SQL Injection.
+Back-end development teams requires an efficient workplace data management solutions that helps to handle and secure structured company's data such as company establishment, developers records, task assignments and clear role information. Poor database management and security issues always triggers data leaks,inefficient queries and security vulnerabilities such as SQL Injection. 
 
 # Solution
 
@@ -21,11 +20,11 @@ This personal project done besides the academic assignments implements a structu
 - Werkzeug 
 
 ## Concepts & learning goals
-- Object-Oriented Programming (OOP) usage in database design and modelling by applying core Python fundamentals
-- Implementation of console-based output that displays processed SQL query and program results by using Python classes and OOP design principles 
-- Secure login credentials management with Werkzeug by implementing structured user authentication model
+- Object-Oriented Programming (OOP) usage in database design and modelling by applying core Python    fundamentals
+- Implementation of console-based output that displays processed SQL query and program results by     using Python classes and OOP design principles 
+- Secure login credentials management with Werkzeug by implementing structured user authentication    model
 - Object Relational Mapping (ORM) usage with SQLAlchemy while executing full CRUD operations
-- SQL Injection prevention by using ORM to protect sensitive user's data
+- SQL Injection prevention by using ORM-based parametric queries to protect sensitive user's data
 
 ### File location
 - This file can be found in 'SQLAlchemy' folder
