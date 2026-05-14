@@ -20,7 +20,7 @@ This personal project done besides the academic assignments implements a structu
 - Werkzeug 
 
 ## Concepts & learning goals
-- Object-Oriented Programming (OOP) usage in database design and modelling by applying core Python    fundamentals  
+- Object-Oriented Programming (OOP) usage in database development by applying core Python             fundamentals      
 - Implementation of console-based output that displays processed SQL query and program results
 - Secure login credentials management with Werkzeug by implementing structured user authentication    model
 - Object Relational Mapping (ORM) usage with SQLAlchemy while executing full CRUD operations
