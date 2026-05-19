@@ -8,7 +8,8 @@ This project uses SQLAlchemy ORM to interact with a relational database while ap
 
 # Problem
 
-Back-end development teams requires an efficient workplace data management solutions that helps to handle and secure structured company's data such as company establishment, developers records and clear role information. Poor database management and security issues always triggers data breaches, inefficient queries and security vulnerabilities such as SQL Injection. 
+Back-end development teams requires an efficient workplace data management solutions that helps to handle and secure structured company's data such as company 
+establishment, developers records and clear role information. Poor database management and security issues always triggers data breaches, inefficient queries and security vulnerabilities such as SQL Injection. 
 
 # Solution
 
